@@ -1,0 +1,19 @@
+<!--sentences used by https://thebestschools.org/magazine/15-logical-fallacies-know/-->
+<resources>
+    <string name="app_name">Fallacies</string>
+    <string name="fallacy1">Ad hominem is an insult used as if it were an argument or evidence in support of a conclusion.</string>
+    <string name="fallacy2">With the strawman argument, someone attacks a position the opponent doesn’t really hold.</string>
+    <string name="fallacy3">An appeal to ignorance isn’t proof of anything except that you don’t know something.</string>
+    <string name="fallacy4">Dilemma-based arguments are only fallacious when, in fact, there are more than the stated options.</string>
+    <string name="fallacy5">The slippery slope fallacy suggests that unlikely or ridiculous outcomes are likely when there’s just not enough evidence to think so.</string>
+    <string name="fallacy6">Circular arguments are also called Petitio principii, meaning “Assuming the initial [thing]” (commonly mistranslated as “begging the question”). This fallacy is a kind of presumptuous argument where it only appears to be an argument.</string>
+    <string name="fallacy7">Hasty generalization may be the most common logical fallacy because there’s no single agreed-upon measure for “sufficient” evidence.</string>
+    <string name="fallacy8">A “red herring fallacy” is a distraction from the argument typically with some sentiment that seems to be relevant but isn’t really on-topic.</string>
+    <string name="fallacy9">The “tu quoque,” Latin for “you too,” is also called the “appeal to hypocrisy” because it distracts from the argument by pointing out hypocrisy in the opponent. </string>
+    <string name="fallacy10">The causal fallacy is any logical breakdown when identifying a cause. </string>
+    <string name="fallacy11">Fallacy of Sunk Costs. Fo example, when we invest ourselves so thoroughly in a project that we’re reluctant to ever abandon it, even when it turns out to be fruitless and futile</string>
+    <string name="fallacy12">Appeal to Authority (argumentum ad verecundiam)This fallacy happens when we misuse an authority.</string>
+    <string name="fallacy13">Equivocation happens when a word, phrase, or sentence is used deliberately to confuse, deceive, or mislead by sounding like it’s saying one thing but actually saying something else.</string>
+    <string name="fallacy14">Argumentum ad misericordiam is Latin for “argument to compassion.” Like the ad hominem fallacy above, it is a fallacy of relevance. Personal attacks, and emotional appeals, aren’t strictly relevant to whether something is true or false</string>
+    <string name="fallacy15">The bandwagon fallacy assumes something is true (or right, or good) because other people agree with it. </string>
+</resources>
